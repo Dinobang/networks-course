@@ -9,7 +9,7 @@
 #### Вопросы
 1. Выберите один UDP-пакет. По этому пакету определите, сколько полей содержит UDP-заголовок.
    
-   ![Image alt](https://github.com/dinobang/networks-course/raw/master/lab06/images/1.png)
+   ![Image alt](https://github.com/dinobang/networks-course/raw/master/lab06/1.png)
 
    Ответ: 4
    
